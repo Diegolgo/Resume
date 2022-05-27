@@ -5,10 +5,12 @@
         
 ![imagen de perfil](https://user-images.githubusercontent.com/103307572/162616055-17ff3817-3e35-4ad6-a017-8d7d72c42591.png)
 
-Diego Moisés Llano Moraga 
-+56967095602
-diegolgo@gmail.com 
-Statistical Engineering
+phone +56967095602
+
+email diegolgo@gmail.com 
+
+## Statistical Engineering
+
 11 years of experience
 
 ### Summmary
@@ -71,3 +73,4 @@ Languages
 
 spanish web version: https://diegolgo.github.io/curriculum/
 
+RRSS and other contacts https://linktr.ee/diegolgo
