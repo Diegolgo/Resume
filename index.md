@@ -71,6 +71,9 @@ Legal company creations.
 Languages
 •	English – Spanish
 
-spanish web version: https://diegolgo.github.io/curriculum/
+<a href="https://diegolgo.github.io/curriculum/">spanish web version </a>
 
-RRSS and other contacts https://linktr.ee/diegolgo
+
+<a href="https://linktr.ee/diegolgo">RRSS and other contacts </a>
+    
+
