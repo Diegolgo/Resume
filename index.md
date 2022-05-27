@@ -1,6 +1,6 @@
 ## Diego Moises Llano Moraga 
 <li class="masthead__menu-item">
-          <a href="https://github.com/Diegolgo/curriculum/blob/main/Diego-Llano-M-2022%20-%20ENG.pdf.pdf">download this version pdf </a>
+          <a href="https://github.com/Diegolgo/curriculum/raw/main/Diego-Llano-M-2022%20-%20ENG.pdf">download this version pdf </a>
         </li>
         
 ![imagen de perfil](https://user-images.githubusercontent.com/103307572/162616055-17ff3817-3e35-4ad6-a017-8d7d72c42591.png)
