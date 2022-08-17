@@ -55,26 +55,29 @@ Legal company creations.
 
 ### Skills highlights, and certifications
 
-•	Data analysis STATA / Kibernum
-•	Access advance / UNAB
-•	Leadership skills / Segic USACH
-•	Technical English for statistics / UDLA
-•	programming on R / PUC
-•	SPSS advance / INE
-•	Skills to make effective presentations / Segic USACH
-•	training and preparation of courses / Segic USACH
-•	Microdata and standard metadata documentation workshop DDI / INE
+ - Data analysis STATA / Kibernum
+ - Access advance / UNAB
+ - Leadership skills / Segic USACH
+ - Technical English for statistics / UDLA
+ - programming on R / PUC
+ - SPSS advance / INE
+ - Skills to make effective presentations / Segic USACH
+ - training and preparation of courses / Segic USACH
+ - Microdata and standard metadata documentation workshop DDI / INE
 
 
 ### Software:
 •	Stata,  Office - Power Bi, SPSS, Statistics, Minitab, R,  SQL, Python,  Access, Linux, bash 
+
 •	Other: Data interconnection, Data Base, Java, Matlab, Photoshop, Access, high proficiency on learning software.
 
-Languages
+### Languages
+
 •	English – Spanish
 
-<a href="https://diegolgo.github.io/curriculum/">spanish web version </a>
+### Links
 
+<a href="https://diegolgo.github.io/curriculum/">spanish web version </a>
 
 <a href="https://linktr.ee/diegolgo">RRSS and other contacts </a>
     
