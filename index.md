@@ -67,7 +67,9 @@ Legal company creations.
 
 
 ### Software:
-•	Stata,  Office- Power Bi, SPSS, Statistics, Minitab, R,  Sql, Python,  Access, Linux, bash 
+•	Stata,  Office - Power Bi, SPSS, Statistics, Minitab, R,  SQL, Python,  Access, Linux, bash 
+•	Other: Data interconnection, Data Base, Java, Matlab, Photoshop, Access, high proficiency on learning software.
+
 Languages
 •	English – Spanish
 
